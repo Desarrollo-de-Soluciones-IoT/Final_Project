@@ -171,6 +171,7 @@ Se actualizó el enfoque de la aplicación para que se pueda agregar caracterís
 - TP
 
 Revisé nuevamente cómo realizar un deploy en Netlify para realizar la documentación del Software Deployment Configuration
+
 </td>
 			<td rowspan="5"> 
             
@@ -223,7 +224,12 @@ Para la corrección del capítulo cuatro debimos actualizar conceptos aprendidos
 			<td>Diego Alonso de la Flor
 
 - TB1
-Se realizó la implementación de las UH con IOT, Software Architecture. Además, de la identificación de los bounded context definidas con el grupo de trabajo. 
+Se realizó la implementación de las UH con IOT, Software Architecture. Además, de la identificación de los bounded context definidas con el grupo de trabajo.
+
+-TP 
+
+Se realizo los wireframes y mock-up, con sus respectivos diagram para ver el fijo de la app con la implementación IOT.
+
 </td>
 		</tr>
 		<tr>
@@ -241,6 +247,9 @@ de software.
 Investigué sobre Event Storming, Domain Message Flow Modelling y Candidate Context Discovery para aplicarlo al proyecto e identificar una estructura en alto nivel de los servicios que debemos implementar en nuestra aplicación.
 
 - TP 
+
+Se estudiaron los conceptos sobre Software Development Configuration como el Versionamiento Semántico y   Conventional Commits para emplearlos en nuestros avances de código.
+
 </td>
 			<td rowspan="5">
 
@@ -296,6 +305,11 @@ Considero que en la realización de los artefactos para esta entrega me ha mante
 - TB1
 
  Identificar y comprender las necesidades de nuestros segmentos objetivos del público al que nos estamos dirigiendo, además de la definición de la implementación de IOT, esto se llevó a cabo mediante reuniones grupales para efectuar correctamente la comunicación.
+
+-TP 
+
+Se realizo una investigación para pasar el documento a markdown y la forma correcta de hacer los flujos de los diagramas.
+
 </td>
 		</tr>
 	</tbody>
