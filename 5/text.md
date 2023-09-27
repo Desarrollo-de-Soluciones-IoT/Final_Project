@@ -23,8 +23,13 @@ El nombre del software identificado es DocSeeker. Originalmente surgió a partir
 A continuación, se presenta el logo o marca de nuestra solución propuesta.
 <img src="images/image001.png">
 
+
 **Typography**
+
+<div>
 <img src="images/image002.png"> <img src="images/image003.png"> <img src="images/image004.png"> <img src="images/image005.png">
+</div>
+
 La tipografía es necesaria para estructurar y organizar el lenguaje visual de todas las plataformas que se desarrollaran para cumplir con las características principales de la aplicación. Se ha tomado en cuenta que las fuentes deben ser legibles y deben aportar a la experiencia del usuario, por ello se optó por estos tipos de letra.
 
 **Head**
@@ -56,9 +61,13 @@ La tipografía es necesaria para estructurar y organizar el lenguaje visual de t
 |Small Text Regular|14 px|19\.6 px|
 
 **Colors**
+
+<div>
 <img src="images/image006.png">
 **Spacing**
 <img src="images/image007.png">
+</div>
+
 **Tono de comunicación y lenguaje aplicado**
 
 **Color Primario:** Representa el color del uniforme básico de los profesionales de la salud, así generamos un ambiente de confianza entre el contratante y el personal médico, pues al usar nuestra aplicación percibirá este color como amigable y cuando vea al doctor o enfermero en su domicilio le parecerá amigable también a una primera impresión. 
@@ -75,7 +84,7 @@ Se tomaron en cuenta algunos elementos de diseño para optimizar la interfaz, pe
 
 ### <a name="_toc146476795"></a> 5.1.2. Web, Mobile and IoT Style Guidelines
 Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
-<img src="images/image009.png"> <img src="images/image010.png">
+<div> <img src="images/image009.png"> <img src="images/image010.png"> </div>
 
 Emplearemos el patrón Z, pues de esta manera identificaran nuestra marca o logo que se encontrara en la esquina superior izquierda, donde comenzara la interacción del usuario. Luego, se desplazará hacia la derecha donde visualizará las diferentes opciones que ofreceremos como como About, Reserve su cita o el área de configuración.  Siguientemente, el usuario se desplazará verticalmente hacia abajo para seguir interactuando con el contenido de la aplicación. Finalmente, el usuario llegará a la esquina inferior derecha donde podrá visualizar todas nuestras redes sociales y nuestros medios de contacto. 
 
@@ -260,26 +269,34 @@ El Landing Page debe ser del tamaño adecuado para las pantallas de cada ordenad
 Buscamos colocar la información precisa sin abrumar para realizar este trabajo. Para esto ayudamos al usuario ofreciéndole una barra de navegación estática que lo facilitará en la navegación por la Landing Page.
 
 **Desktop Web**
+
 <img src="images/image021.png">
 
 Diseño del menú del sitio web: Se presenta la base que incluirá las opciones más destacadas para la atención del usuario.**                                         
-
-
+<img src="images/image023.png">
+<img src="images/image024.png">
 Opción que muestra datos para conocer mejor la plataforma.
 
 Servicios para ambos segmentos:
+<img src="images/image026.png">
 
 Página de referencia para dar a conocer como contactar y la actualidad de la plataforma.
+<img src="images/image029.png">
 
 **Mobile Web**
 
 Se observa el diseño del bloque de menú de inicio para la accesibilidad del usuario, mostrando el botón que despliega las opciones de navegación.
+<img src="images/image030.png">
 
 Se visualiza un bloque que indica opciones que incluye en la lista de herramientas del servidor, en un caso determinado, información de la aplicación.
-
+<img src="images/image031.png">
+<img src="images/image033.png">
 Se visualiza los servicios para ambos segmentos objetivos.
-
+<img src="images/image036.png"> 
+<img src="images/image037.png">
 Se muestra el bloque final de la aplicación, detallando contenido de comunicación del servicio y el usuario.
+<img src="images/image038.png">
+<img src="images/image040.png">
 
 URL: <https://www.figma.com/file/Fl7bYMvKSlA8Wvbpj6DUtb/WireFrame-Landing-Page-IOT?type=design&node-id=0%3A1&mode=design&t=L3eZV7SyyOZQJK8h-1> 
 ### <a name="_toc146476804"></a> 5.3.2. Landing Page Mock-up
@@ -288,18 +305,28 @@ Se presenta la versión preliminar en qué consistirá nuestro sitio web, detall
 **Desktop Web Browser**
 
 Se muestra la versión menú de la plataforma, detallando los principales contenidos, opciones que permiten conocer más nuestro sistema al usuario.
+<img src="images/image041.png">
+<img src="images/image043.png">
 
 Al elegir la opción “Meet Us” de la barra de herramientas del menú principal, se muestra 3 elecciones como adquisición del usuario que tendrá libertad de elegir cuál opción es su necesidad para informarse acerca de nuestro proyecto.
 
+
 Se presenta los servicios que posee el usuario a lo largo del consumo del software.
 
+
+
 **Usuario: Familiares de los Pacientes**
+<img src="images/image045.png">
 
 **Usuario: Profesionales de Salud**
 
-` `**Integración de iot** 
+<img src="images/image047.png">
+
+**Integración de iot** 
+<img src="images/image049.png">
 
 Se presenta como bloque final de la plataforma, información breve de contacto, y la opción de contactarnos y comentarnos sus dudas y/o necesidades.
+<img src="images/image051.png">
 
 **Mobile Web Browser**
 
@@ -307,20 +334,18 @@ Se presenta el bloque de menú principal de la Landing Page en su versión Mobil
 
 Se muestra el bloque de “Meet Us”, con información del proceso de nuestros tratamientos en base del profesional de salud asignado, consultas acerca de nuestro proceso del sistema, información de nuestra misión y de nuestras consultas.
 
-
-
-
-
+<img src="images/image053.png">
+<img src="images/image054.png">
 
 
 Se muestra el bloque de servicios que se ofrecen para los pacientes y los profesionales interesados en nuestro software.
+<img src="images/image056.png">
+<img src="images/image057.png">
 
 
 Se presenta como bloque final de la plataforma, información breve de contacto, y la opción de contactarnos y comentarnos sus dudas y/o necesidades.
 
-
-
-
+<img src="images/image059.png">
 
 
 
@@ -331,12 +356,15 @@ Un diseño cuidadoso de UX/UI puede mejorar la usabilidad y la satisfacción del
 - Version Web
 
 **Segmento Objetivo Pacientes**
+<img src="images/image062.png">
 
 **Segmento Objetivo profesionales de la salud**
+<img src="images/image063.png">
 
 URL: <https://www.figma.com/file/E3GznLyGX8hCczpdUo4fIu/Wireframes-Web-Design?node-id=0%3A1&t=nH5o2DX8ccnlARnb-1> 
 
 **Version Mobile**
+<img src="images/image066.png">
 
 
 URL: <https://www.figma.com/file/n15JEWQuYtY5BHqyds6KxI/Mobile-Wireframe?node-id=0%3A1&t=nH5o2DX8ccnlARnb-1> 
@@ -345,6 +373,7 @@ URL: <https://www.figma.com/file/n15JEWQuYtY5BHqyds6KxI/Mobile-Wireframe?node-id
 ### <a name="_toc146476807"></a> 5.4.2. Wireflow Diagrams
 ### Web Wireflow
 **Segmento Objetivo Pacientes**
+<img src="images/image067.png">
 
 **User Goal**: Como paciente, deseo iniciar sesión para ingresar a DocSeeker
 
@@ -352,20 +381,26 @@ URL: <https://www.figma.com/file/n15JEWQuYtY5BHqyds6KxI/Mobile-Wireframe?node-id
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a DocSeeker. 
 
+<img src="images/image069.png">
+
 **User Goal**: Como paciente, deseo registrarme para ingresar a DocSeeker
 
 **Descripción:** 
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder registrarse. Iniciará en el login, seleccionará la opción paciente y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
-
+<img src="images/image071.png">
 
 **User Goal:** Como paciente deseo cambiar mi contraseña
 
 Al momento de iniciar sesión, se presentará una opción de olvide mi contraseña, cuando le de click, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
+<img src="images/image073.png">
+
 **User Goal**: Como paciente deseo visualizar mi historial médico.
 
 **Descripción:** 
+
+<img src="images/image075.png">
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History” para poder obtener su historial médico presente en DocSeeker. 
 
@@ -375,6 +410,7 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario pac
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder subir su historial médico dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Medical History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en DocSeeker.
 
+<img src="images/image077.png">
 
 **User Goal**: Como paciente deseo visualizar el perfil de un profesional de la salud
 
@@ -382,37 +418,46 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario pac
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de profesionales de la salud y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de DocSeeker.
 
+<img src="images/image079.png">
+
 **User Goal**: Como paciente deseo ver las reseñas de un profesional de la salud
 
 **Descripción:** 
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar las reseñas de un profesional de la salud. Se empezará desde la pantalla inicial, luego selecciona a un médico desde la sección de profesionales de la salud. Después, se ingresa al perfil del doctor seleccionado y se entrará al apartado de reseñas desde la opción “See Reviews”.
-
+<img src="images/image081.png">
 
 **User Goal**: Como paciente deseo publicar una nueva reseña a un profesional de la salud
 
 **Descripción:** 
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder escribir una reseña a un profesional de la salud. Se empezará desde la pantalla inicial, después se ingresará al perfil del médico a reseñar. Luego, se entrará a través de “See reviews” al apartado de reseñas, en donde se seleccionará “Publish Review” para comenzar a escribir la reseña. Por último, se presionará “Publish” para publicarla y se brindará un mensaje de confirmación.
-
+<img src="images/image083.png">
 
 **User Goal**: Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
 
 **Descripción:** 
 
 En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día.
+<img src="images/image085.png">
 
 **User Goal:** Como paciente deseo revisar mi perfil.
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario paciente para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
+<img src="images/image087.png">
+
 
 **User Goal:** Como paciente deseo editar mi información de perfil.
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Personal Information”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
 
+<img src="images/image089.png">
+
 **User Goal:** Como paciente deseo revisar mi receta médica.
 
 En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle. 
+
+<img src="images/image091.png">
 
 **User Goal:** Como paciente deseo ver noticias relacionadas con la salud. 
 
@@ -421,12 +466,15 @@ En los presentes Wireflows se muestran las dos diferentes formas para realizar e
 En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible.
 
 En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información.
+<img src="images/image093.png">
 
 **User Goal**: Como paciente, deseo pagar una cita escogida previamente para poder llevar a cabo el encuentro con el medico
 
 **Descripción:** 
 
 En el presente Wireflow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, se mostrará una ventana informando que el pago fue realizado correctamente.
+<img src="images/image094.png">
+
 
 **User Goal :** Como paciente deseo tener un registro de mi temperatura y pulso para ver en qué estado me encuentro.
 
