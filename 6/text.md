@@ -173,3 +173,15 @@ feat: remove ticket list endpoint refers to JIRA-1337
 
 BREAKING CHANGES: ticket endpoints no longer supports list all entities
 ```
+
+### Software Deployment Configuration 
+
+**Deployment del Landing Page**
+
+1. Dirigirse a _Team Overview_, > _Add New Site_ > _Import an existing project_
+![Step 1](images/step1.png)
+2. Seleccionar la opción _“Try Netlify Drop”_
+![Step 2](images/step2.png)
+3. Arrastra y soltar la carpeta con los archivos del Landing Page
+![Step 3](images/step3.png)
+4. Esperar aproximadamente 15 minutos para que la página web termine de deployarse. Luego, se podrá acceder al Landing Page a través del enlace proporcionado por Netlify.
