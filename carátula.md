@@ -193,6 +193,8 @@ Se actualizaron ciertos puntos realizados previamente para adaptarlos a un entor
 
 -TP
 
+Se actualizaron diseños de los figmas, teniendo en consideración las nuevas funciones para los dispositivios IoT y brindar una mayor inmersión al usuario.
+
 </td>
 		</tr>
 		<tr>
@@ -218,6 +220,7 @@ La actualización constante de conceptos y herramientas es esencial para el desa
 - TP
 
 Para la corrección del capítulo cuatro debimos actualizar conceptos aprendidos anteriormente. Además, que la realización del capítulo 5 solution.
+
 </td>
 		</tr>
 		<tr>
