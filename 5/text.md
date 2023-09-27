@@ -21,10 +21,10 @@ Nuestra solución (DocSeeker), nace en la misma necesidad de atención médica a
 El nombre del software identificado es DocSeeker. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal médico especializado y por ello se optó por búsqueda de doctores. Específicamente en el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. El equipo espera que la gente vincule a los doctores y el proceso de búsqueda cuando escuche el nombre de la solución, para que tenga una idea de que encontrara en nuestra interfaz. 
 
 A continuación, se presenta el logo o marca de nuestra solución propuesta.
-
+<img src="images/image001.png">
 
 **Typography**
-
+<img src="images/image002.png"> <img src="images/image003.png"> <img src="images/image004.png"> <img src="images/image005.png">
 La tipografía es necesaria para estructurar y organizar el lenguaje visual de todas las plataformas que se desarrollaran para cumplir con las características principales de la aplicación. Se ha tomado en cuenta que las fuentes deben ser legibles y deben aportar a la experiencia del usuario, por ello se optó por estos tipos de letra.
 
 **Head**
@@ -56,9 +56,9 @@ La tipografía es necesaria para estructurar y organizar el lenguaje visual de t
 |Small Text Regular|14 px|19\.6 px|
 
 **Colors**
-
+<img src="images/image006.png">
 **Spacing**
-
+<img src="images/image007.png">
 **Tono de comunicación y lenguaje aplicado**
 
 **Color Primario:** Representa el color del uniforme básico de los profesionales de la salud, así generamos un ambiente de confianza entre el contratante y el personal médico, pues al usar nuestra aplicación percibirá este color como amigable y cuando vea al doctor o enfermero en su domicilio le parecerá amigable también a una primera impresión. 
@@ -75,7 +75,7 @@ Se tomaron en cuenta algunos elementos de diseño para optimizar la interfaz, pe
 
 ### <a name="_toc146476795"></a> 5.1.2. Web, Mobile and IoT Style Guidelines
 Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
-
+<img src="images/image009.png"> <img src="images/image010.png">
 
 Emplearemos el patrón Z, pues de esta manera identificaran nuestra marca o logo que se encontrara en la esquina superior izquierda, donde comenzara la interacción del usuario. Luego, se desplazará hacia la derecha donde visualizará las diferentes opciones que ofreceremos como como About, Reserve su cita o el área de configuración.  Siguientemente, el usuario se desplazará verticalmente hacia abajo para seguir interactuando con el contenido de la aplicación. Finalmente, el usuario llegará a la esquina inferior derecha donde podrá visualizar todas nuestras redes sociales y nuestros medios de contacto. 
 
@@ -83,7 +83,10 @@ Siguientemente, el diseño de nuestra aplicación contara con colores que motive
 
 
 Se emplearán algunos de los siguientes elementos: 
-
+<img src="images/image012.png">
+<img src="images/image014.png">
+<img src="images/image016.png">
+<img src="images/image018.png">
 
 
 
@@ -189,34 +192,23 @@ A continuación, se mostrarán los SEO Tags y Meta Tags utilizados en el Landing
 Landing Page:
 
 
+```
 <head>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-
-
 <meta name="description" content="Landing page aimed at health professionals and people who cannot get around. We will inform you about who we are, what our services are and how you can contact us."/>
 
-
-
 <meta name="keywords" content="DocSeeker, Home, About us, Services, Contact, Landing Page "/>
-
-
 
 <meta name="author" content="MEDITECH team"/>
 
 
-
-
-
-
-
 <title> DocSeeker the best home health care website. </title>
 
-
-
 </head>
+```
 
 ### <a name="_toc146476800"></a>5.2.4. Searching Systems
 A continuación, se mostrarán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la información que están buscando.
@@ -260,7 +252,7 @@ Por otro lado, en el caso del Web Application, se tiene una barra de navegación
 ## <a name="_toc146476802"></a>5.3.  Landing Page UI Design
 Las Landing Pages son herramientas que se utilizan para convertir a los visitantes en potenciales clientes a través de diversas maneras como mensajes llamativos, información sobre tu producto entre otras cosas. Por ello se decidió hacer uso de esta herramienta, en la que diseñamos la versión preliminar para la versión del móvil y para computadoras.  
 
-### <a name="_toc146476803"></a> 5.3.Landing Page Wireframe
+### <a name="_toc146476803"></a> 5.3.1. Landing Page Wireframe
 En esta sección, se presentará base para el diseño del sitio web de nuestro software. Con bases que permitan dar una mejor idea del contenido que mostrará la plataforma y la versión móvil.
 
 El Landing Page debe ser del tamaño adecuado para las pantallas de cada ordenador por lo que la información estará centrada en la pantalla para que sea fácilmente visible para el usuario. 
@@ -268,6 +260,7 @@ El Landing Page debe ser del tamaño adecuado para las pantallas de cada ordenad
 Buscamos colocar la información precisa sin abrumar para realizar este trabajo. Para esto ayudamos al usuario ofreciéndole una barra de navegación estática que lo facilitará en la navegación por la Landing Page.
 
 **Desktop Web**
+<img src="images/image021.png">
 
 Diseño del menú del sitio web: Se presenta la base que incluirá las opciones más destacadas para la atención del usuario.**                                         
 
