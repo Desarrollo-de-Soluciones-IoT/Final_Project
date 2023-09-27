@@ -92,3 +92,84 @@ GitFlow trabaja con diferentes ramas las cuales tienen funciones específicas. A
     - Debe fusionarse de nuevo en las ramas develop y master.
 
     Estas ramas son muy similares a las branches del release, ya que se ramifican de master en vez de develop. Son llamadas como ramas de mantenimiento, corrección o hotfix. Su principal función, es reparar rápidamente las entregas de producción. Al terminar la corrección, debe fusionarse con master y esta debe etiquetarse con un nuevo número de versión. 
+
+### Source Code Style Guide & Conventions
+
+**Convenciones para nombrar los Features, release y hotfix branches**
+
+* **Feature Branch**: feature/name
+
+  Ejemplos:
+  * feature/doctors
+  * feature/patients
+  * feature/medical-history
+    
+**Semantic Versioning Specification**
+
+El Versionamiento Semántico es una especificación que brinda pautas a los desarrolladores para enumerar las versiones de un proyecto de código.
+
+El proyecto inicia su desarrollo con la versión 0.y.z, luego pasara a ser 1.0.0 cuando se defina la API pública. Luego, se seguirán los criterios mostrados a continuación para incrementar la versión. 
+
+**Patch version (Z)**, debe incrementarse si solo se introducen correcciones de errores compatibles con versiones anteriores.
+
+**Minor version (Y)**, debe incrementarse si:
+* Se integra una nueva funcionalidad compatible con versiones anteriores en la API pública.
+* Si alguna funcionalidad es obsoleta o si se introducen nuevas funcionalidades en el código privado.
+
+**Major version (X)**, debe incrementarse si se generan cambios deslindados a versiones anteriores en la API pública. 
+
+**Conventional Commits**
+
+El commit debe estructurarse de la siguiente manera:
+```
+<type> [optional scope]: <description> 
+
+[optional body]
+
+[optional footer(s)]
+```
+Cabe recalcar que debe estar en “lower case”.
+
+**Type**
+* **feat**: cuando se agrega un nuevo feature.
+* **fix**: cuando corriges un error.
+* **build**: cuando afectan los componentes de compilación como la herramienta de compilación, las dependencias o la version del proyecto.
+* **chore**: modificaciones privadas del código.
+* **docs**: commits que afectan solo a la documentación.
+* **refractor**: commits que reescriben o reestructura el código, pero no cambia el comportamiento.
+* **perf**: commits especiales que mejoran el rendimiento.
+* **style**: commits que no afectan el programa. (espacios en blanco, formato, puntos o comas faltantes).
+* **test**: commits que agregan prueba
+  
+**Scope**
+
+Proporciona información contextual adicional, si bien es opcional, es bueno colocarlo para que el desarrollador lea un commit más específico.
+
+Ejemplos:
+- `feat(api): <description>`
+- `feat(lang): <description>` 
+
+**Description**
+
+Es una parte obligatoria del formato de los commits. Debe ser escrito de manera imperativa y en minúsculas.
+
+**Optional body**
+
+Debe incluirse la motivación para el cambio y contrastarse con el comportamiento anterior. Es opcional y si lo usa debe usar el imperativo y es ideal para mencionar los identificadores de problemas y sus relaciones.
+
+**Optional Footer**
+
+Cualquier información sobre cambios importantes. Es opcional, puede incluir referencia al problema por su id y en esta sección se incluyen los BREAKING CHANGES: seguido de un espacio o dos saltos de línea. 
+
+Ejemplos:
+
+1. `feat(welcome): add welcome section`
+2. `build(release): bump version to 1.0.0`
+3. `style: remove empty line`
+4. `feat(sign up): add the button to sign up`
+5. `feat!: send an email to the customer when product is shipped`
+```
+feat: remove ticket list endpoint refers to JIRA-1337 
+
+BREAKING CHANGES: ticket endpoints no longer supports list all entities
+```
