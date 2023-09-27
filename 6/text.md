@@ -53,3 +53,42 @@ Para realizar las pruebas, se utilizó la herramienta de desarrollo guiado por c
 Es un tipo de texto escrito o ilustración que acompaña al software de computadora o está incrustado en el código fuente. La documentación explica cómo funciona el software o cómo usarlo.
 
 - **OpenAPI Specification y Swagger**: Es una especificación para archivos de interfaz legibles por máquina para describir, producir y visualizar servicios web RESTful. https://swagger.io/specification 
+
+### Source Code Management 
+
+A continuación, se presenta la gestión del código fuente o como es conocido por sus siglas en ingles SCM (Source Code Management). Su función principal es realizar un seguimiento de las modificaciones que el equipo realizara a lo largo del desarrollo de sus proyectos en los repositorios. Se empleará como un sistema de control de versiones que permite dar seguimiento a los cambios que cada integrante o desarrollador realice en el proyecto. Asimismo, cabe resaltar que para el sistema de control de versiones emplearemos GitHub.
+
+- URL de la organización: https://github.com/Desarrollo-de-Soluciones-IoT
+- URL del repositorio del Landing Page: https://github.com/Desarrollo-de-Soluciones-IoT/LandingPage
+- URL del repositorio de los diagramas C4: https://github.com/Desarrollo-de-Soluciones-IoT/Diagrams 
+
+**Gitflow**
+
+Es el modelo alternativo de creación de ramas en Git que en los últimos años se ha vuelto una herramienta indispensable para muchos desarrolladores. Este flujo de trabajo de control de versiones utiliza ramas y fue publicado y popularizado por Vincent Driessen. Su principal función es ayudar en la organización de la versión de un código, permitiendo la creación de nuevos Features y Hotfixes de manera organizada.
+
+![img.png](images/gitflow-branches.png)
+
+GitFlow trabaja con diferentes ramas las cuales tienen funciones específicas. A continuación, se muestran las ramas que se emplearan en el flujo de trabajo de nuestro proyecto. 
+
+- **Main Branches**
+    - **main**: es la rama principal, a partir de ella se recorrerán todas las ramas y contendrá la última versión y las anteriores creadas por los desarrolladores. Almacenara el historial de publicación oficial. 
+    - **develop**: Esta rama puede ser creada a partir de la master Branch, contara con todos los Features estables. Esto significa que a través de esta rama el equipo podrá integrar las funciones. 
+
+- **Support Branches**
+
+    A diferencia de las ramas principales, estas branches tienen un tiempo de vida limitado, ya que son eliminadas después de realizar el merge con sus ramas primarias.  
+  - Feature:
+    - Se ramifica de la rama _develop_ 
+    - Debe fusionarse con la rama _develop_
+
+    Se emplean para desarrollar las nuevas funciones que se integraran en una versión siguiente. Cabe resaltar, que esta rama existe mientras este en proceso de desarrollo. Sin embargo, cuando el desarrollador culmine con esa función, se fusionará nuevamente a develop. 
+  - Release:
+    - Se ramifica de la rama develop 
+    - Debe fusionarse de nuevo en las ramas develop / main
+    
+    Son aquellas que admiten la preparación de una nueva versión de producción. A través de esta rama, se permite corregir errores menores que surgieron en la etapa de desarrollo y preparar metadatos para su lanzamiento. Esto último genera que la develop Branch se autoriza para recibir nuevas funciones para la próxima versión, pues se generara cuando se acerque una fecha de publicación determinada. 
+- **Hotfix**
+    - Se ramifica de la rama main. 
+    - Debe fusionarse de nuevo en las ramas develop y master.
+
+    Estas ramas son muy similares a las branches del release, ya que se ramifican de master en vez de develop. Son llamadas como ramas de mantenimiento, corrección o hotfix. Su principal función, es reparar rápidamente las entregas de producción. Al terminar la corrección, debe fusionarse con master y esta debe etiquetarse con un nuevo número de versión. 
