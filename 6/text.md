@@ -185,3 +185,40 @@ BREAKING CHANGES: ticket endpoints no longer supports list all entities
 3. Arrastra y soltar la carpeta con los archivos del Landing Page
 ![Step 3](images/step3.png)
 4. Esperar aproximadamente 15 minutos para que la página web termine de deployarse. Luego, se podrá acceder al Landing Page a través del enlace proporcionado por Netlify.
+
+## Landing Page, Services & Applications
+La implementación de Landing Page y servicios de aplicaciones es esencial para presentar información relevante de manera efectiva y brindar acceso a los servicios ofrecidos. Esto impulsa la interacción con los usuarios y facilita la utilización de las aplicaciones.
+
+### Sprint 1
+#### Sprint planning
+![Sprint](images/sprint.png)
+Trello: https://trello.com/invite/b/8huvmr1r/ATTI040473fcfbdd32874981325385fb039246657C62/desarrollo-de-soluciones-iot
+
+#### Sprint Backlog 1
+En esta primera iteración, tuvimos como objetivo implementar el diseño de nuestro Landing Page mediante la utilización de WebStorm. Es decir, todas las secciones deben estar terminadas al finalizar el Sprint, ya sea inicio, conócenos, servicios o contáctanos. A continuación, se presentan fotos que evidencian nuestro manejo de Trello.
+
+#### Development Evidence for Sprint Review
+| Repository                                                  | Branch  | Commit                                    | Commit Message          | Commited On (Date) |
+|-------------------------------------------------------------|---------|-------------------------------------------|-------------------------|--------------------|
+| https://github.com/Desarrollo-de-Soluciones-IoT/LandingPage | develop | 45c3bb1882f0c39160e9caf82906d7e4a8fe0af3  | Initial commit          | 09/26/2023         |
+|                                                             |         | e5b27c7383f7cd53d4f58413c00ec9b3a9535159  | Add footer              | 09/26/2023         |
+|                                                             |         | 9a1ba3dd9c6f5030a55af6da29c93496ea1f349b  | Add new section         | 09/26/2023         |
+|                                                             |         | 17c2d6c2449eeb4fc8df170929d44ac381784dfd  | refactor style of cards | 09/26/2023         |
+|                                                             |         | e247399bae12f29f95ed8303797533f53e5bab14  | Update README.md        | 09/26/2023         |
+|                                                             |         | 6a81518df24d40b082a0b49bd98e5457930b998c  | feat: Added iot section | 09/26/2023         |
+
+#### Testing Suite Evidence for Sprint Review
+No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services
+
+#### Execution Evidence for Sprint Review
+
+**Landing Page**
+![Lading Page](images/landing1.png)
+![Lading Page](images/landing2.png)
+![Lading Page](images/landing3.png)
+![Lading Page](images/landing4.png)
+Para el despliegue del Landing Page se utilizó el servicio netlify
+Link de Landing Page desplegado: https://docseekerr.netlify.app
+
+#### Team Collaboration Insights during Sprint
+![Team Collaboration](images/Team%20Collaboration.png)
