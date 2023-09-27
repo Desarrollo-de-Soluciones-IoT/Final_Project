@@ -478,14 +478,11 @@ Fuente: Instituto Nacional de Estadística e Informática
 Tal como se puede apreciar en el gráfico, se estima que hasta el 2050 habrá un aumento en el porcentaje de adultos mayores, lo que conlleva a que crezca este sector de la población que necesita constante apoyo y atención. Por ello, la demanda de enfermeros o médicos para su supervisión también se elevará en los próximos años. Además, en los mismos datos se evidencia que disminuirá la población de entre 20 a 45 años, lo que implica que los cuidados informales de personas discapacitadas se reducirán de igual manera. Por todo esto, llegamos a la conclusión de que los segmentos objetivos de nuestra aplicación son los siguientes. 
 </div>
 
-- Personas mayores que requieran supervisión o Personas discapacitadas o con alguna otra dificultad para movilizarse
+- Pacientes
 
 <img src="../1/images/persona-old.png" width="200" height="150" align="center">
-<img src="../1/images/persona-discapacitada.png" width="200" height="150" align="center">
 
-- Familiares de personas discapacitadas
 
-<img src="../1/images/familiares-dispacidad.png" width="200" height="150" align="center">
 
 - Profesionales de la salud
 
