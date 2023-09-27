@@ -64,7 +64,13 @@ La tipografía es necesaria para estructurar y organizar el lenguaje visual de t
 
 <div>
 <img src="images/image006.png">
+
+</div>
+
+
 **Spacing**
+<div>
+
 <img src="images/image007.png">
 </div>
 
@@ -272,9 +278,14 @@ Buscamos colocar la información precisa sin abrumar para realizar este trabajo.
 
 <img src="images/image021.png">
 
-Diseño del menú del sitio web: Se presenta la base que incluirá las opciones más destacadas para la atención del usuario.**                                         
+Diseño del menú del sitio web: Se presenta la base que incluirá las opciones más destacadas para la atención del usuario.
+
+<div>                                        
 <img src="images/image023.png">
 <img src="images/image024.png">
+</div>
+
+
 Opción que muestra datos para conocer mejor la plataforma.
 
 Servicios para ambos segmentos:
@@ -289,14 +300,24 @@ Se observa el diseño del bloque de menú de inicio para la accesibilidad del us
 <img src="images/image030.png">
 
 Se visualiza un bloque que indica opciones que incluye en la lista de herramientas del servidor, en un caso determinado, información de la aplicación.
+<div>
+
 <img src="images/image031.png">
 <img src="images/image033.png">
+</div>
+
 Se visualiza los servicios para ambos segmentos objetivos.
+<div>
 <img src="images/image036.png"> 
 <img src="images/image037.png">
+</div>
+
 Se muestra el bloque final de la aplicación, detallando contenido de comunicación del servicio y el usuario.
+<div>
 <img src="images/image038.png">
 <img src="images/image040.png">
+</div>
+
 
 URL: <https://www.figma.com/file/Fl7bYMvKSlA8Wvbpj6DUtb/WireFrame-Landing-Page-IOT?type=design&node-id=0%3A1&mode=design&t=L3eZV7SyyOZQJK8h-1> 
 ### <a name="_toc146476804"></a> 5.3.2. Landing Page Mock-up
@@ -305,8 +326,10 @@ Se presenta la versión preliminar en qué consistirá nuestro sitio web, detall
 **Desktop Web Browser**
 
 Se muestra la versión menú de la plataforma, detallando los principales contenidos, opciones que permiten conocer más nuestro sistema al usuario.
+<div>
 <img src="images/image041.png">
 <img src="images/image043.png">
+</div>
 
 Al elegir la opción “Meet Us” de la barra de herramientas del menú principal, se muestra 3 elecciones como adquisición del usuario que tendrá libertad de elegir cuál opción es su necesidad para informarse acerca de nuestro proyecto.
 
@@ -400,9 +423,10 @@ Al momento de iniciar sesión, se presentará una opción de olvide mi contrase�
 
 **Descripción:** 
 
-<img src="images/image075.png">
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History” para poder obtener su historial médico presente en DocSeeker. 
+
+<img src="images/image075.png">
 
 **User Goal**: Como paciente deseo subir mi historial médico.
 
@@ -482,30 +506,36 @@ En el presente Wireflow, nos encontramos en la vista “Book your appointment”
 
 El usuario comienza abriendo la aplicación de registro de salud en su dispositivo. Luego, registra su temperatura corporal y su pulso actual en la aplicación, que se almacenan en su historial personal. Posteriormente, el usuario puede acceder al historial en cualquier momento para visualizar sus mediciones previas y así evaluar su estado de salud a lo largo del tiempo.
 
+<img src="images/image103.png">
+
 **Segmento Objetivo profesionales de la salud**
+<img src="images/image105.png">
 
 **User Goal**: Como profesional de la salud, deseo iniciar sesión para ingresar a DocSeeker
 
 **Descripción:** 
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a DocSeeker. 
+<img src="images/image106.png">
 
 **User Goal**: Como profesional de la salud deseo registrarme para ingresar a DocSeeker
 
 **Descripción:** 
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder registrarse. Iniciará en el login, seleccionará la opción profesional de la salud y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
+<img src="images/image108.png">
 
 **User Goal:** Como profesional de la salud deseo cambiar mi contraseña
 
 Al momento de iniciar sesión, se presentará una opción de olvide mi contraseña, cuando le de click, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
-
+<img src="images/image110.png">
 
 **User Goal**: Como profesional de la salud, deseo ver todas las ofertas de citas médicas que me han llegado para aceptar o rechazarlas.
 
 **Descripción:**
 
 En el presente Wireflow, nos encontramos en la vista “My appointments”, donde se muestra todas las citas médicas que han sido solicitadas al médico. Al dar click a una de ellas, el sistema lleva al médico a la vista detallada de la cita médica, dónde podrá ver la razón de la cita, archivos adjuntos, entre otros. 
+<img src="images/image112.png">
 
 **User Goal**: Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico.
 
@@ -513,17 +543,20 @@ En el presente Wireflow, nos encontramos en la vista “My appointments”, dond
 
 En el presente Wireflow, nos encontramos en la vista del Historial Médico de Dario Hernandez, un paciente en la aplicación web. Podemos visualizar sus datos personales, así como, todos los registros que han sido guardados cuándo se ha atendido con nosotros. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos explicando el problema y de qué trató la cita médica, se da click al botón “Save” para guardar el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio.
 
-Imagen
+<img src="images/image114.png">
 
 **User Goal:** Como profesional deseo revisar mi perfil.
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
 
+<img src="images/image116.png">
 
 
 **User Goal:** Como profesional deseo revisar mi perfil.
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Edit”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
+<img src="images/image118.png">
+
 
 **User Goal:** Como profesional de la salud deseo revisar mis ingresos de la plataforma.
 
@@ -541,23 +574,26 @@ Segmento Objetivo Pacientes
 1\.- User Goal: Como paciente, deseo iniciar sesión 
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta.  
+<img src="images/image118.png">
 
 2\.- User Goal: Como paciente deseo registrarme para ingresar a DocSeeker 
 
 Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.  
-
+<img src="images/image120.png">
 
 3\.- User Goal: Como paciente deseo visualizar mi historial médico 
 
 Descripción:  
 
 En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History”. A este punto se presentan dos posibles escenarios. El primero, cuando ya se ha subido el historial y este se mostrará. El segundo, donde aún no se ha adjuntado el historial y se presentará la opción de subirlo. Esta última acción puede resultar con éxito o no dependiendo del tipo de archivo cargado por el usuario, si este es PDF la operación será correcta, de otro modo saldrá un mensaje de error.
+<img src="images/image1222.png">
 
 4\.- User Goal: Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con mi doctor para agendarla 
 
 Descripción:
 
 En el presente UserFlow, nos encontramos en la vista “Citas”. Nos aparecerá un calendario para elegir la fecha y hora. Una vez seleccionada la fecha, ya estaría lista la reserva. 
+<img src="images/image124.png">
 
 
 5\.- User Goal: Como paciente deseo ver mi perfil de usuario a detalle 
@@ -565,12 +601,15 @@ En el presente UserFlow, nos encontramos en la vista “Citas”. Nos aparecerá
 Descripción: 
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la información de perfil a detalle. Para la cual deberá la opción de “Perfil” situada en el menú inferior, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá seleccionar el lápiz para guardar los cambios, caso contrario solamente deberá seleccionar al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
+<img src="images/image126.png">
+
 
 6\.- User Goal : Como usuario deseo tener un registro de mi temperatura y pulso para ver en qué estado me encuentro.
 
 Descripción: 
 
 El usuario comienza abriendo la aplicación de registro de salud en su dispositivo. Luego, registra su temperatura corporal y su pulso actual en la aplicación, que se almacenan en su historial personal. Posteriormente, el usuario puede acceder al historial en cualquier momento para visualizar sus mediciones previas y así evaluar su estado de salud a lo largo del tiempo.
+<img src="images/image128.png">
 
 
 
@@ -579,6 +618,7 @@ El usuario comienza abriendo la aplicación de registro de salud en su dispositi
 Descripción: 
 
 El proceso comienza cuando el usuario abre la aplicación de configuración de alertas. Dentro de esta aplicación, el usuario tiene la capacidad de definir umbrales específicos para la temperatura corporal y la frecuencia cardíaca, lo que le permite recibir alertas cuando estos valores superan los umbrales configurados. Esto puede ser particularmente útil si el usuario desea estar al tanto de cambios críticos en su estado de salud.
+<img src="images/image130.png">
 
 
 8\.- User Goal: Como usuario deseo que se me notifique a mi dispositivo de mi temperatura actual.
@@ -586,38 +626,43 @@ El proceso comienza cuando el usuario abre la aplicación de configuración de a
 Descripción: 
 
 El flujo comienza con el usuario abriendo la aplicación correspondiente en su dispositivo. La característica principal de esta aplicación es proporcionar al usuario notificaciones en tiempo real de su temperatura corporal actual. Esto permite al usuario estar al tanto de su estado de salud en el momento y tomar medidas adecuadas en función de la información proporcionada.
+<img src="images/image132.png">
 
 Segmento Objetivo profesional de Salud
 
 1\.- User Goal: Como profesionales de la salud, deseo iniciar sesión 
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción profesional de la salud e ingresará su correo electronico y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta.  
+<img src="images/image134.png">
 
 2\.- User Goal: Como profesionales de la salud deseo registrarme para ingresar a DocSeeker 
 
 Al momento de iniciar el registro, el profesional de la salud deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.  
+<img src="images/image136.png">
 
 3\.- User Goal: Como profesional de salud, deseo visualizar el historial médico de mi paciente con sus datos incluyendo su estado de temperatura y pulso.
 
 Descripción:
 
 El profesional de salud inicia sesión en la plataforma médica y selecciona al paciente específico cuyo historial desea revisar. Una vez dentro del historial médico del paciente, el profesional puede acceder a una variedad de datos relevantes, como diagnósticos previos, tratamientos, medicamentos recetados y resultados de exámenes médicos. Además, este objetivo implica la visualización de información específica sobre la temperatura corporal y la frecuencia cardíaca registrada, lo que permite al profesional tener una visión completa de la evolución de la salud del paciente a lo largo del tiempo y tomar decisiones clínicas informadas en función de esta información histórica. Además, se podrá verificar la última actualización de los datos del paciente.
-
+<img src="images/image138.png">
 
 4\.- User Goal: Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico. 
 
 En el presente Wireflow, nos encontramos en la vista del Historial Médico de un paciente. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al seleccionar este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos y seleccionar al botón “Finalizar”, se guardará el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio. Si no se completa todos los campos y se da seleccionar al botón “Finalizar”, se mostrará una advertencia y se le mostrará el registro en edición de nuevo.
+<img src="images/image140.png">
 
 5\.- User Goal: Como profesional deseo editar mi información de perfil 
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la información de perfil y editarla si es que se desea. Para la cual deberá seleccionar la opcion perfil para acceder a la información de usuario, y para ver y/o editar esta información a detalle deberá seleccionar al botón “Editar”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Actualizar” para guardar los cambios, caso contrario solamente deberá seleccionar al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
-
+<img src="images/image142.png">
 
 ### <a name="_toc146476808"></a> 5.4.3. Applications Mock-ups
 
 - Versión Web
 
 **Segmento Objetivo pacientes**
+<img src="images/image143.png">
 
 Link: <https://www.figma.com/file/vw5U3k1RrZNwLDbCj77Woy/Mockup-Web-Design?node-id=0%3A1&t=06XmpO8E5TvHVIro-1>
 
@@ -626,6 +671,11 @@ Link: <https://www.figma.com/file/vw5U3k1RrZNwLDbCj77Woy/Mockup-Web-Design?node-
 
 **Segmento Objetivo profesionales de la salud**
 
+<div>
+<img src="images/image145.png">
+<img src="images/image147.png">
+<img src="images/image149.png">
+</div>
 
 Link: <https://www.figma.com/file/vw5U3k1RrZNwLDbCj77Woy/Mockup-Web-Design?node-id=1%3A7467&t=06XmpO8E5TvHVIro-1>
 
@@ -634,9 +684,12 @@ Link: <https://www.figma.com/file/vw5U3k1RrZNwLDbCj77Woy/Mockup-Web-Design?node-
 - Version Mobile
 
 **Segmento Objetivo pacientes**
-
+<img src="images/image151.png">
+<img src="images/image153.png">
 
 **Segmento Objetivo profesionales de la salud**
+<img src="images/image155.png">
+<img src="images/image157.png">
 
 
 ### <a name="_toc146476809"></a> 5.4.4. Applications User Flow Diagrams
@@ -648,11 +701,15 @@ Link: <https://www.figma.com/file/vw5U3k1RrZNwLDbCj77Woy/Mockup-Web-Design?node-
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta. 
 
+<img src="images/image159.png">
+
+
 **User Goal:** Como paciente deseo registrarme para ingresar a DocSeeker
 
 Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión. 
 
 
+<img src="images/image161.png">
 
 User Goal: Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
 
@@ -660,12 +717,16 @@ Descripción:
 
 En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día. Si el usuario da click a una fecha que no está disponible, el sistema le mostrará un mensaje de advertencia, diciéndole que esa fecha no se encuentra disponible.
 
+
+<img src="images/image163.png">
+
 **User Goal**: Como paciente deseo visualizar mi historial médico
 
 **Descripción:** 
 
 En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History”. A este punto se presentan dos posibles escenarios. El primero, cuando ya se ha subido el historial y este se mostrará. El segundo, donde aún no se ha adjuntado el historial y se presentará la opción de subirlo. Esta última acción puede resultar con éxito o no dependiendo del tipo de archivo cargado por el usuario, si este es PDF la operación será correcta, de otro modo saldrá un mensaje de error.
 **
+<img src="images/image165.png">
 
 
 **User Goal**: Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendarla
@@ -674,6 +735,7 @@ En el presente UserFlow, se presenta el camino que deberá seguir el usuario pac
 
 En el presente UserFlow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, si no hay problemas con el pago, se mostrara una ventana informando que el pago fue realizado correctamente, en caso contrario, se mostrara una ventana indicando que hubo un error.
 **
+<img src="images/image167.png">
 
 
 **User Goal**: Como paciente deseo publicar una reseña a un profesional de la salud
@@ -682,32 +744,42 @@ En el presente UserFlow, nos encontramos en la vista “Book your appointment”
 
 En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder añadir una reseña a un profesional de la salud. Se empezará desde la pantalla inicial, donde se dirigirá al perfil del doctor. Al momento de entrar al apartado de reseñas mediante “See Reviews”, se presentarán dos posibles escenarios, uno en el que el médico cuenta con reseñas previas y se presentarán en una lista, y otro en el que no presenta aún ni una reseña y saldrá un mensaje que indica este hecho. En ambos casos, se presentará la opción de publicar una nueva con lo que saldrá el formulario de reseñas. Una vez se selecciona publicar la reseña saldrá un mensaje de confirmación.
 
+<img src="images/image169.png">
+
+
 **User Goal:** Como paciente deseo ver mi perfil de usuario a detalle
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la información de perfil a detalle. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información deberá dar click al botón “Personal Information”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
 
+<img src="images/image171.png">
+
+
 **User Goal:** Como paciente deseo revisar mi receta médica.
 
 En el presente User Flow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle. Sin embargo, se puede dar el caso de que aún no se haya realizado la primera prescripción dentro de nuestra plataforma, en ese caso se le mostrará un mensaje al usuario de que aún no hay prescripciones disponibles.
+<img src="images/image173.png">
 
 User Goal : Como usuario deseo tener un registro de mi temperatura y pulso para ver en qué estado me encuentro.
 
 Descripción: 
 
 El usuario comienza abriendo la aplicación de registro de salud en su dispositivo. Luego, registra su temperatura corporal y su pulso actual en la aplicación, que se almacenan en su historial personal. Posteriormente, el usuario puede acceder al historial en cualquier momento para visualizar sus mediciones previas y así evaluar su estado de salud a lo largo del tiempo.
+<img src="images/image175.png">
+
 
 **Segmento Objetivo profesionales de la salud**
 
 **User Goal:** Como profesionales de la salud, deseo iniciar sesión
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesionales de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta. 
+<img src="images/image177.png">
+
 
 **User Goal:** Como profesionales de la salud deseo registrarme para ingresar a DocSeeker
 
 Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión. 
 
-
-**
+<img src="images/image179.png">
 
 
 **User Goal:** Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico.
@@ -716,23 +788,34 @@ Al momento de iniciar el registro, el usuario deberá ingresar todos los datos q
 
 En el presente Wireflow, nos encontramos en la vista del Historial Médico de un paciente. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos y dar click al botón “Save”, se guardará el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio. Si no se completa todos los campos y se da click al botón “Save”, se mostrará una advertencia y se le mostrará el registro en edición de nuevo.
 
+<img src="images/image181.png">
+
 **User Goal:** Como profesional deseo editar mi información de perfil
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la información de perfil y editarla si es que se desea. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información a detalle deberá dar click al botón “Edit”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
+
+<img src="images/image183.png">
+
 
 **User Goal:** Como profesional deseo visualizar mis reseñas
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a las reseñas que ha recibido por su servicio. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y desde esta vista se puede visualizar las reseñas recientes, pero en caso se deseen visualizar todas a más detalle el usuario deberá dar click al botón “More”, en caso el usuario aún no tenga ninguna reseña se mostrará una ventana con un mensaje notificándolo, caso contrario se visualizarán todas las reseñas disponibles realizadas.
 
+<img src="images/image185.png">
+
+
 **User Goal:** Como profesional de la salud deseo revisar mis ingresos de la plataforma.
 
 En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones. Sin embargo, si aún no han recibido ninguna transacción entonces el cuadro estadístico no mostrará ninguna medición y el historial estará vacío.
+
+<img src="images/image187.png">
 
 User Goal : Como usuario deseo tener un registro de mi temperatura y pulso para ver en qué estado me encuentro.
 
 Descripción: 
 
 El usuario comienza abriendo la aplicación de registro de salud en su dispositivo. Luego, registra su temperatura corporal y su pulso actual en la aplicación, que se almacenan en su historial personal. Posteriormente, el usuario puede acceder al historial en cualquier momento para visualizar sus mediciones previas y así evaluar su estado de salud a lo largo del tiempo.
+<img src="images/image189.png">
 
 
 Link: <https://lucid.app/lucidspark/6ad6cde8-3b52-4568-a875-363f1c082e24/edit?viewport_loc=-10887%2C-5365%2C23653%2C11820%2C0_0&invitationId=inv_fa5798b1-94ea-4e80-a88b-92c55dc10da8>
@@ -746,20 +829,30 @@ Link: <https://lucid.app/lucidspark/6ad6cde8-3b52-4568-a875-363f1c082e24/edit?vi
 
 Segmento Objetivo pacientes 
 
+<img src="images/image190.png">
+
 1\.- User Goal: Como paciente, deseo iniciar sesión 
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta.  
+
+
+<img src="images/image192.png">
 
 2\.- User Goal: Como paciente deseo registrarme para ingresar a DocSeeker 
 
 Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.  
 
 
+<img src="images/image194.png">
+
 3\.- User Goal: Como paciente deseo visualizar mi historial médico 
 
 Descripción:  
 
 En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History”. A este punto se presentan dos posibles escenarios. El primero, cuando ya se ha subido el historial y este se mostrará. El segundo, donde aún no se ha adjuntado el historial y se presentará la opción de subirlo. Esta última acción puede resultar con éxito o no dependiendo del tipo de archivo cargado por el usuario, si este es PDF la operación será correcta, de otro modo saldrá un mensaje de error.
+
+
+<img src="images/image196.png">
 
 4\.- User Goal: Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con mi doctor para agendarla 
 
@@ -768,11 +861,17 @@ Descripción:
 En el presente UserFlow, nos encontramos en la vista “Citas”. Nos aparecerá un calendario para elegir la fecha y hora. Una vez seleccionada la fecha, ya estaría lista la reserva. 
 
 
+<img src="images/image198.png">
+
 5\.- User Goal: Como paciente deseo ver mi perfil de usuario a detalle 
 
 Descripción: 
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la información de perfil a detalle. Para la cual deberá la opción de “Perfil” situada en el menú inferior, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá seleccionar el lápiz para guardar los cambios, caso contrario solamente deberá seleccionar al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
+
+
+<img src="images/image200.png">
+
 
 6\.- User Goal : Como usuario deseo tener un registro de mi temperatura y pulso para ver en qué estado me encuentro.
 
@@ -780,6 +879,7 @@ Descripción:
 
 El usuario comienza abriendo la aplicación de registro de salud en su dispositivo. Luego, registra su temperatura corporal y su pulso actual en la aplicación, que se almacenan en su historial personal. Posteriormente, el usuario puede acceder al historial en cualquier momento para visualizar sus mediciones previas y así evaluar su estado de salud a lo largo del tiempo.
 
+<img src="images/image202.png">
 
 
 7\.- User Goal: Como usuario deseo poder configurar a que cambios de temperatura y pulso poder hacer el envío de la alerta.
@@ -788,6 +888,7 @@ Descripción:
 
 El proceso comienza cuando el usuario abre la aplicación de configuración de alertas. Dentro de esta aplicación, el usuario tiene la capacidad de definir umbrales específicos para la temperatura corporal y la frecuencia cardíaca, lo que le permite recibir alertas cuando estos valores superan los umbrales configurados. Esto puede ser particularmente útil si el usuario desea estar al tanto de cambios críticos en su estado de salud.
 
+<img src="images/image204.png">
 
 8\.- User Goal: Como usuario deseo que se me notifique a mi dispositivo de mi temperatura actual.
 
@@ -796,25 +897,32 @@ Descripción:
 El flujo comienza con el usuario abriendo la aplicación correspondiente en su dispositivo. La característica principal de esta aplicación es proporcionar al usuario notificaciones en tiempo real de su temperatura corporal actual. Esto permite al usuario estar al tanto de su estado de salud en el momento y tomar medidas adecuadas en función de la información proporcionada.
 
 Segmento Objetivo profesional de Salud
+<img src="images/image206.png">
+
 
 1\.- User Goal: Como profesionales de la salud, deseo iniciar sesión 
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción profesional de la salud e ingresará su correo electronico y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta.  
+<img src="images/image208.png">
+
 
 2\.- User Goal: Como profesionales de la salud deseo registrarme para ingresar a DocSeeker 
 
 Al momento de iniciar el registro, el profesional de la salud deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.  
+<img src="images/image210.png">
+
 
 3\.- User Goal: Como profesional de salud, deseo visualizar el historial médico de mi paciente con sus datos incluyendo su estado de temperatura y pulso.
 
 Descripción:
 
 El profesional de salud inicia sesión en la plataforma médica y selecciona al paciente específico cuyo historial desea revisar. Una vez dentro del historial médico del paciente, el profesional puede acceder a una variedad de datos relevantes, como diagnósticos previos, tratamientos, medicamentos recetados y resultados de exámenes médicos. Además, este objetivo implica la visualización de información específica sobre la temperatura corporal y la frecuencia cardíaca registrada, lo que permite al profesional tener una visión completa de la evolución de la salud del paciente a lo largo del tiempo y tomar decisiones clínicas informadas en función de esta información histórica. Además, se podrá verificar la última actualización de los datos del paciente.
-
+<img src="images/image212.png">
 
 4\.- User Goal: Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico. 
 
 En el presente Wireflow, nos encontramos en la vista del Historial Médico de un paciente. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al seleccionar este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos y seleccionar al botón “Finalizar”, se guardará el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio. Si no se completa todos los campos y se da seleccionar al botón “Finalizar”, se mostrará una advertencia y se le mostrará el registro en edición de nuevo.
+<img src="images/image214.png">
 
 5\.- User Goal: Como profesional deseo editar mi información de perfil 
 
