@@ -217,8 +217,14 @@ No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Te
 ![Lading Page](images/landing2.png)
 ![Lading Page](images/landing3.png)
 ![Lading Page](images/landing4.png)
-Para el despliegue del Landing Page se utilizó el servicio netlify
 Link de Landing Page desplegado: https://docseekerr.netlify.app
+
+#### Services Documentation Evidence for Sprint Review
+![Endpoints documentation](images/endpoints1.jpg)
+![Endpoints documentation](images/endpoints2.jpg)
+![Endpoints documentation](images/endpoints3.jpg)
+![Endpoints documentation](images/endpoints4.jpg)
+![Endpoints documentation](images/endpoints5.jpg)
 
 #### Team Collaboration Insights during Sprint
 ![Team Collaboration](images/Team%20Collaboration.png)
