@@ -197,15 +197,143 @@ Trello: https://trello.com/invite/b/8huvmr1r/ATTI040473fcfbdd32874981325385fb039
 #### Sprint Backlog 1
 En esta primera iteración, tuvimos como objetivo implementar el diseño de nuestro Landing Page mediante la utilización de WebStorm. Es decir, todas las secciones deben estar terminadas al finalizar el Sprint, ya sea inicio, conócenos, servicios o contáctanos. A continuación, se presentan fotos que evidencian nuestro manejo de Trello.
 
+<table border="1">
+  <tr>
+    <th>ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Estimación (Horas)</th>
+    <th>Asignado A</th>
+    <th>Estado (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr>
+    <td>#182062223</td>
+    <td>HU30: Visualización de Landing Page</td>
+    <td>TA01 - Agregar sección de descarga - Se creará un botón que dirija a la descarga de la aplicación en el inicio; asimismo, debe incluir un párrafo llamativo que acompañe a la opción.</td>
+    <td>2</td>
+    <td>Jasmin</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TA02 - Añadir tarjetas de información - Para la sección de ‘conócenos’, se añadirá un listado de tarjetas (imágenes con texto) que muestren los beneficios que ofrece la app.</td>
+    <td>4</td>
+    <td>Jasmin</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TA03 - Añadir tarjetas de servicios para pacientes - Para la sección de ‘servicios para pacientes’, se añadirá un listado de tarjetas (imágenes con texto) que muestren los servicios que ofrece la app.</td>
+    <td>4</td>
+    <td>Ludwin</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TA04 - Añadir tarjetas de servicios para doctores - Para la sección de ‘servicios para doctores’, se añadirá un listado de tarjetas (imágenes con texto) que muestren los servicios que ofrece la app.</td>
+    <td>4</td>
+    <td>Diego</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TA05 - Añadir datos resaltantes - Agregar una sección que cuente con los datos numéricos y/o estadísticos más sorprendentes de DocSeeker.</td>
+    <td>2</td>
+    <td>Kendall</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TA06 - Agregar encabezados de secciones - Colocar un encabezado que indique en qué sección se encuentra el usuario.</td>
+    <td>1</td>
+    <td>Diego</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>#182062235</td>
+    <td>HU31: Contacto con la Empresa</td>
+    <td>TA01 - Añadir sección ‘contáctanos’ - Se creará una sección al final del Landing Page que esté dedicada totalmente al contacto con la empresa.</td>
+    <td>2</td>
+    <td>Gonzalo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>#182267507</td>
+    <td>HU32: Traslación en el Landing Page</td>
+    <td>TA01 - Crear encabezado del Landing Page - Se añadirá un encabezado que contenga el logo de DocSeeker al inicio de la página.</td>
+    <td>1</td>
+    <td>Ludwin</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TA02 - Programar botones de secciones en el encabezado - Se crearán botones en el inicio que te lleven a distintas secciones de la página.</td>
+    <td>3</td>
+    <td>Kendall</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>#182267516</td>
+    <td>HU33: Acceso a redes sociales</td>
+    <td>TA01 - Añadir botones de redes sociales - Se añadirán botones que te lleven a las distintas redes sociales de la página en el footer.</td>
+    <td>3</td>
+    <td>Gonzalo</td>
+    <td>To-Do</td>
+  </tr>
+</table>
+
+
 #### Development Evidence for Sprint Review
-| Repository                                                  | Branch  | Commit                                    | Commit Message          | Commited On (Date) |
-|-------------------------------------------------------------|---------|-------------------------------------------|-------------------------|--------------------|
-| https://github.com/Desarrollo-de-Soluciones-IoT/LandingPage | develop | 45c3bb1882f0c39160e9caf82906d7e4a8fe0af3  | Initial commit          | 09/26/2023         |
-|                                                             |         | e5b27c7383f7cd53d4f58413c00ec9b3a9535159  | Add footer              | 09/26/2023         |
-|                                                             |         | 9a1ba3dd9c6f5030a55af6da29c93496ea1f349b  | Add new section         | 09/26/2023         |
-|                                                             |         | 17c2d6c2449eeb4fc8df170929d44ac381784dfd  | refactor style of cards | 09/26/2023         |
-|                                                             |         | e247399bae12f29f95ed8303797533f53e5bab14  | Update README.md        | 09/26/2023         |
-|                                                             |         | 6a81518df24d40b082a0b49bd98e5457930b998c  | feat: Added iot section | 09/26/2023         |
+
+
+<table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Committed on (Date)</th>
+  </tr>
+  <tr>
+    <td rowspan="6">https://github.com/Desarrollo-de-Soluciones-IoT/LandingPage</td>
+    <td rowspan="6">develop</td>
+    <td>45c3bb1882f0c39160e9caf82906d7e4a8fe0af3</td>
+    <td>Initial commit</td>
+    <td>09/26/2023</td>
+  </tr>
+  <tr>
+    <td>e5b27c7383f7cd53d4f58413c00ec9b3a9535159</td>
+    <td>Add footer</td>
+    <td>09/26/2023</td>
+  </tr>
+  <tr>
+    <td>9a1ba3dd9c6f5030a55af6da29c93496ea1f349b</td>
+    <td>Add new section</td>
+    <td>09/26/2023</td>
+  </tr>
+  <tr>
+    <td>17c2d6c2449eeb4fc8df170929d44ac381784dfd</td>
+    <td>Refactor style of cards</td>
+    <td>09/26/2023</td>
+  </tr>
+  <tr>
+    <td>e247399bae12f29f95ed8303797533f53e5bab14</td>
+    <td>Update README.md</td>
+    <td>09/26/2023</td>
+  </tr>
+  <tr>
+    <td>6a81518df24d40b082a0b49bd98e5457930b998c</td>
+    <td>feat: Added IoT section</td>
+    <td>09/26/2023</td>
+  </tr>
+</table>
+
 
 #### Testing Suite Evidence for Sprint Review
 No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services
