@@ -207,7 +207,8 @@ En esta primera iteración, tuvimos como objetivo implementar el diseño de nues
 |                                                             |         | e247399bae12f29f95ed8303797533f53e5bab14  | Update README.md        | 09/26/2023         |
 |                                                             |         | 6a81518df24d40b082a0b49bd98e5457930b998c  | feat: Added iot section | 09/26/2023         |
 
-
+#### Testing Suite Evidence for Sprint Review
+No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services
 
 #### Execution Evidence for Sprint Review
 
@@ -216,4 +217,5 @@ En esta primera iteración, tuvimos como objetivo implementar el diseño de nues
 ![Lading Page](images/landing2.png)
 ![Lading Page](images/landing3.png)
 ![Lading Page](images/landing4.png)
-Link de Landing Page desplegado: https://docseekerr.netlify.app 
+Link de Landing Page desplegado: https://docseekerr.netlify.app
+
