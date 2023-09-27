@@ -197,13 +197,11 @@ Trello: https://trello.com/invite/b/8huvmr1r/ATTI040473fcfbdd32874981325385fb039
 #### Sprint Backlog 1
 En esta primera iteración, tuvimos como objetivo implementar el diseño de nuestro Landing Page mediante la utilización de WebStorm. Es decir, todas las secciones deben estar terminadas al finalizar el Sprint, ya sea inicio, conócenos, servicios o contáctanos. A continuación, se presentan fotos que evidencian nuestro manejo de Trello.
 
-
-| Sprint # | Sprint 1 |       |             |            |
-|---------|----------|-------|-------------|------------|
-| User Story | Task     |       |             |            |
-| Title   | Id       | Title | Description | Estimation |
-|         |          |       |             |            |
-
 #### Execution Evidence for Sprint Review
 
 **Landing Page**
+![Lading Page](images/landing1.png)
+![Lading Page](images/landing2.png)
+![Lading Page](images/landing3.png)
+![Lading Page](images/landing4.png)
+Link de Landing Page desplegado: https://docseekerr.netlify.app 
