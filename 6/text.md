@@ -213,6 +213,7 @@ No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Te
 #### Execution Evidence for Sprint Review
 
 **Landing Page**
+
 ![Lading Page](images/landing1.png)
 ![Lading Page](images/landing2.png)
 ![Lading Page](images/landing3.png)
@@ -220,6 +221,7 @@ No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Te
 Link de Landing Page desplegado: https://docseekerr.netlify.app
 
 #### Services Documentation Evidence for Sprint Review
+
 ![Endpoints documentation](images/endpoints1.jpg)
 ![Endpoints documentation](images/endpoints2.jpg)
 ![Endpoints documentation](images/endpoints3.jpg)
