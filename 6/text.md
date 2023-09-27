@@ -185,3 +185,25 @@ BREAKING CHANGES: ticket endpoints no longer supports list all entities
 3. Arrastra y soltar la carpeta con los archivos del Landing Page
 ![Step 3](images/step3.png)
 4. Esperar aproximadamente 15 minutos para que la página web termine de deployarse. Luego, se podrá acceder al Landing Page a través del enlace proporcionado por Netlify.
+
+## Landing Page, Services & Applications
+La implementación de Landing Page y servicios de aplicaciones es esencial para presentar información relevante de manera efectiva y brindar acceso a los servicios ofrecidos. Esto impulsa la interacción con los usuarios y facilita la utilización de las aplicaciones.
+
+### Sprint 1
+#### Sprint planning
+![Sprint](images/sprint.png)
+Trello: https://trello.com/invite/b/8huvmr1r/ATTI040473fcfbdd32874981325385fb039246657C62/desarrollo-de-soluciones-iot
+
+#### Sprint Backlog 1
+En esta primera iteración, tuvimos como objetivo implementar el diseño de nuestro Landing Page mediante la utilización de WebStorm. Es decir, todas las secciones deben estar terminadas al finalizar el Sprint, ya sea inicio, conócenos, servicios o contáctanos. A continuación, se presentan fotos que evidencian nuestro manejo de Trello.
+
+
+| Sprint # | Sprint 1 |       |             |            |
+|---------|----------|-------|-------------|------------|
+| User Story | Task     |       |             |            |
+| Title   | Id       | Title | Description | Estimation |
+|         |          |       |             |            |
+
+#### Execution Evidence for Sprint Review
+
+**Landing Page**
