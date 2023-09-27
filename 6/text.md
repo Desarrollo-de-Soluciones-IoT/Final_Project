@@ -197,6 +197,18 @@ Trello: https://trello.com/invite/b/8huvmr1r/ATTI040473fcfbdd32874981325385fb039
 #### Sprint Backlog 1
 En esta primera iteración, tuvimos como objetivo implementar el diseño de nuestro Landing Page mediante la utilización de WebStorm. Es decir, todas las secciones deben estar terminadas al finalizar el Sprint, ya sea inicio, conócenos, servicios o contáctanos. A continuación, se presentan fotos que evidencian nuestro manejo de Trello.
 
+#### Development Evidence for Sprint Review
+| Repository                                                  | Branch  | Commit                                    | Commit Message          | Commited On (Date) |
+|-------------------------------------------------------------|---------|-------------------------------------------|-------------------------|--------------------|
+| https://github.com/Desarrollo-de-Soluciones-IoT/LandingPage | develop | 45c3bb1882f0c39160e9caf82906d7e4a8fe0af3  | Initial commit          | 09/26/2023         |
+|                                                             |         | e5b27c7383f7cd53d4f58413c00ec9b3a9535159  | Add footer              | 09/26/2023         |
+|                                                             |         | 9a1ba3dd9c6f5030a55af6da29c93496ea1f349b  | Add new section         | 09/26/2023         |
+|                                                             |         | 17c2d6c2449eeb4fc8df170929d44ac381784dfd  | refactor style of cards | 09/26/2023         |
+|                                                             |         | e247399bae12f29f95ed8303797533f53e5bab14  | Update README.md        | 09/26/2023         |
+|                                                             |         | 6a81518df24d40b082a0b49bd98e5457930b998c  | feat: Added iot section | 09/26/2023         |
+
+
+
 #### Execution Evidence for Sprint Review
 
 **Landing Page**
