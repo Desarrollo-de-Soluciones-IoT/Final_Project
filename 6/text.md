@@ -1049,7 +1049,13 @@ URL: <https://upcedupe-my.sharepoint.com/personal/u20181f759_upc_edu_pe/_layouts
 
 **Anexo B: Videos de Exposiciones.**
 
-| Entrega | Características                                              | Entrega del video                                                                                                                                               |
-| ------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TP      | _upc-pre-202302-si572sw72-ESolutions-expo-tp1_               | <https://www.canva.com/design/DAFvneksS-A/UiTjMIte5WRpovb9ASP_3Q/edit?utm_content=DAFvneksS-A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton> |
-| TB2     | <p>_upc-pre-202302-si572sw72-ESolutions-expo-tb2_</p><p></p> | <https://www.canva.com/design/DAFzJRSBA3c/tJS6h6SuOjb5FGmXlQ_Smw/edit?utm_content=DAFzJRSBA3c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton> |
+| Entrega | Características | Entrega del video |
+| ------- | --------------- | ------------------ |
+| Needfinding Interviews | upc-pre-202302-si572-SW72-E-Solutions-needfinding-sprint-1 | [upc-pre-202302-si572-SW72-E-Solutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c339_upc_edu_pe/ESKLmE5IlAlDmobFYfGR5tUB2CNBnP402aqQwfqcPesRfQ?e=BzlyP8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| TP   | upc-pre-202302-si572sw72-ESolutions-expo-tp1   | [upc-pre-202302-si572sw72-ESolutions-expo-tp1](https://www.canva.com/design/DAFvneksS-A/UiTjMIte5WRpovb9ASP_3Q/edit?utm_content=DAFvneksS-A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
+| TB2  | upc-pre-202302-si572sw72-ESolutions-expo-tb2   | [upc-pre-202302-si572sw72-ESolutions-expo-tb2](https://www.canva.com/design/DAFzJRSBA3c/tJS6h6SuOjb5FGmXlQ_Smw/edit?utm_content=DAFzJRSBA3c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
+| Validation Interviews | upc-pre-202302-si572-SW72-E-Solutions-validation-sprint-2 | [upc-pre-202302-si572-SW72-E-Solutions-validation-sprint-2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c339_upc_edu_pe/EeQQ12EoJCFPty7ZrRmk83sBVSQdrXYA61tSXV9r8VZrng?e=YbhR8G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| About the Team | upc-pre-202302-si572-SW72-E-Solutions-aboutthe-team-sprint-3 | [upc-pre-202302-si572-SW72-E-Solutions-aboutthe-team-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c339_upc_edu_pe/ERR2HOoIEvtLkxnR6gCGGYwBuuSj6mN6DhUMhX0isWh_sw?e=W7uRNZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| TF1  | upc-pre-202302-si572-sw72-ESolutions-expo-tf1   | [upc-pre-202302-si572-sw72-ESolutions-expo-tf1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c339_upc_edu_pe/EXbdB06yT6VOp1mA4TNf32MBufrja5g637-O_HfBUlGWLw?e=JkJKsq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+
+
