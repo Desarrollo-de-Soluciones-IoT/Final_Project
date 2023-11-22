@@ -195,10 +195,13 @@ BREAKING CHANGES: ticket endpoints no longer supports list all entities
 **Deployment del Landing Page**
 
 1. Dirigirse a _Team Overview_, > _Add New Site_ > _Import an existing project_
+
    ![Step 1](images/step1.png)
 2. Seleccionar la opción _“Try Netlify Drop”_
+
    ![Step 2](images/step2.png)
 3. Arrastra y soltar la carpeta con los archivos del Landing Page
+
    ![Step 3](images/step3.png)
 4. Esperar aproximadamente 15 minutos para que la página web termine de deployarse. Luego, se podrá acceder al Landing Page a través del enlace proporcionado por Netlify.
 
@@ -453,6 +456,7 @@ Link de repositorio: https://github.com/Desarrollo-de-Soluciones-IoT/Acceptance-
 #### <a name="_toc151313386"></a>6.2.2.5.Execution Evidence for Sprint Review.
 
 Landing Page
+
 ![execution landing](images/image056.png)
 ![execution landing](images/image057.png)
 ![execution landing](images/image058.png)
@@ -461,19 +465,27 @@ Landing Page
 ` `Link de Landing Page desplegado : [https://docseekerr.netlify.app ](https://docseekerr.netlify.app)
 
 Dashboard para usuarios Profesional de salud
+
 ![execution app](images/image060.png)
 
 My Profile para usuario Profesional de salud
+
 ![execution app](images/image061.png)
 
 Edit Profile para usuario Profesional de salud
+
 ![execution app](images/image062.png)
+
 My Reviews para usuario Profesional de salud
+
 ![execution app](images/image063.png)
 
 My Appointments para usuario Profesional de salud
+
 ![execution app](images/image064.png)
+
 Information Patient para usuario Profesional de salud
+
 ![execution app](images/image065.png)
 
 #### <a name="_toc151313387"></a>6.2.2.6.Services Documentation Evidence for Sprint Review.
@@ -524,6 +536,7 @@ Los pasos realizados para el correcto deploy del proyecto fueron los siguientes:
 - Instalar el Firebase CLI
 
 En la terminal ubicado en la ruta del proyecto utilizamos el comando **npm install -g firebase-tools** para la instalación del CLI de Firebase, adicionalmente a este se usa el comando **firebase login** para iniciar sesión a tu cuenta de Firebase 
+
 ![deployment](images/image068.png)
 
 ![deployment](images/image069.png)
@@ -533,6 +546,7 @@ Lo siguiente es darle **firebase init** para iniciar con la configuración de fi
 ![deployment](images/image070.png)
 
 Elegiremos el uso al que se le dará el firebase, en nuestro caso como hosting 
+
 ![deployment](images/image071.png)
 
 Luego añadiremos el proyecto que hemos creado en Firebase
@@ -540,12 +554,15 @@ Luego añadiremos el proyecto que hemos creado en Firebase
 ![deployment](images/image072.png)
 
 Luego para terminar el setup ponemos las siguientes configuraciones: 
+
 ![deployment](images/image073.png)
 
 Luego corremos el código **ng build** ra crear la carpeta dist 
+
 ![deployment](images/image074.png)
 
 Finalmente pondremos el código **firebase deploy** para subir los cambios a nuestro proyecto Firebase y tener la versión deployada más reciente 
+
 ![deployment](images/image075.png)
 
 [https://open-source-docseeker.web.app](https://open-source-docseeker.web.app/)
@@ -555,9 +572,11 @@ Finalmente pondremos el código **firebase deploy** para subir los cambios a nue
 Se visualiza en la abrra de búsqueda que se encuentra el link donde está deployado la aplicación web
 
 ![deployment](images/image077.png)
+
 ![deployment](images/image078.png)
 
 Despliegue de la landing page
+
 ![deployment](images/image079.png)
 
 Link de Landing Page desplegado : https://docseekerr.netlify.app
@@ -638,6 +657,7 @@ Link de repositorio: https://github.com/Desarrollo-de-Soluciones-IoT/Acceptance-
 #### <a name="_toc151313396"></a>6.2.3.5.Execution Evidence for Sprint Review.
 
 Landing Page
+
 ![deployment](images/image082.png)
 ![deployment](images/image083.png)
 ![deployment](images/image084.png)
@@ -646,30 +666,39 @@ Landing Page
 ` `Link de Landing Page desplegado : [https://docseekerr.netlify.app ](https://docseekerr.netlify.app)
 
 Dashboard para usuarios Profesional de salud
+
 ![deployment](images/image086.jpg)
 
 My Profile para usuario Profesional de salud
+
 ![deployment](images/image087.png)
 
 Edit Profile para usuario Profesional de salud
+
 ![deployment](images/image088.png)
 
 My Reviews para usuario Profesional de salud
+
 ![deployment](images/image089.png)
 
 My Appointments para usuario Profesional de salud
+
 ![deployment](images/image090.png)
 
 Information Patient para usuario Profesional de salud
+
 ![deployment](images/image091.png)
 
 Service para usuario Profesional de Salud:
+
 ![deployment](images/image092.png)
 
 Detalles de paciente (Temperatura) :
+
 ![deployment](images/image093.jpg)
 
 Detalles de paciente (Pulso):
+
 ![deployment](images/image094.jpg)
 
 Dashboard para usuario paciente:
@@ -677,24 +706,31 @@ Dashboard para usuario paciente:
 ![deployment](images/image095.jpg)
 
 My Profile para usuario paciente
+
 ![deployment](images/image096.jpg)
 
 Prescriptions para usuario paciente
+
 ![deployment](images/image097.jpg)
 
 Medical History de paciente:
+
 ![deployment](images/image098.jpg)
 
 Editar Personal Information de paciente:
+
 ![deployment](images/image099.jpg)
 
 Doctors para usuario paciente
+
 ![deployment](images/image100.jpg)
 
 Detalles de paciente (Temperatura) :
+
 ![deployment](images/image101.jpg)
 
 Detalles de paciente (Pulso):
+
 ![deployment](images/image102.jpg)
 
 #### <a name="_toc151313397"></a>6.2.3.6.Services Documentation Evidence for Sprint Review.
